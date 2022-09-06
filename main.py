@@ -21,4 +21,4 @@ async def on_message(ctx):
       embed.set_image(url = 'https://i.imgur.com/Zs8E4sp.png')
       await ctx.channel.send(embed = embed)
       break
- client.run(os.environ['Token'])
+ client.run('MTAxMjY2Mjc2Mjc4ODM3NjY1Ng.GyJjs_.46-VFgVsHjPrOsvMbDTQT1P0t_NFHpn7KYt9l4')
